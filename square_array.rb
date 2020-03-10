@@ -4,7 +4,3 @@ def square_array(array)
   my_array
 end
 
-def square_array(array)
-  array.collect{|n| n**2}
-end
-  
